@@ -1,0 +1,1 @@
+This is a repository for the Predictive Modeling (GB 886) and Machine Learning (GB 888) classes in the Master's of Data, Insights, and Analytics (MSDIA) in the Wisconsin School of Business at UW-Madison.
